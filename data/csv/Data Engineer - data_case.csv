@@ -1,0 +1,1001 @@
+dateTime,deviceoutput,cashback,hasInternetFlat,hasMultimediaFlat,hasPhoneFlat,positionInTheList,averageMonthlyPrice,providerName,providerReviewsAmount,scoreTotalLabelOutOf10,scoreTotalMarkOutOf10,tariffName,transferType
+2025-03-09 14:00:00,tabletapp,300.0,True,False,True,,22.94,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 250 Kabel ,cable
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,desktop,200.0,True,False,True,,26.24,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,22.79,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 18:30:00,desktop,200.0,True,False,False,,13.41,Regioprovider2,,Gut,7.3,Full Speed 250 ,cable
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,16.45,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 20:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,30.28,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 10:30:00,mobile,400.0,True,False,True,,14.45,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:30:00,tabletapp,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 21:30:00,tabletapp,400.0,True,False,True,,13.2,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:00:00,desktop,200.0,True,False,True,,29.4,Provider_green,,Sehr gut,8.4,Glasfaser 150 ,fiberglass
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 12:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 11:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 23:00:00,desktop,200.0,True,False,True,,37.77,Provider_green,,Sehr gut,8.5,My Zuhause L Regio ,dsl
+2025-03-09 05:00:00,desktop,200.0,True,False,True,,49.78,Provider_yellow,,Gut,7.9,ExtraZuhause 1.000 ,fiberglass
+2025-03-09 10:30:00,desktop,300.0,True,True,True,,31.36,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV Super ,dsl
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,28.95,Provider_yellow,,Gut,7.7,ExtraZuhause 100 ,fiberglass
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,47.1,Provider_green,,Sehr gut,8.6,My Zuhause XL Hybrid ,dsl
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,30.35,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 12:00:00,desktop,300.0,True,False,True,,19.03,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 250 Kabel ,cable
+2025-03-09 15:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:00:00,desktop,400.0,True,True,True,,9.99,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 19:30:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 250 Kabel ,cable
+2025-03-09 16:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,30.28,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 11:00:00,tabletapp,200.0,True,False,True,,19.94,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,26.36,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 20:00:00,desktop,400.0,True,True,True,,14.99,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,32.36,Provider_green,,Sehr gut,8.6,Glasfaser 150 ,fiberglass
+2025-03-09 09:00:00,desktop,400.0,True,False,True,,14.45,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,27.07,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,30.35,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 12:30:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,28.95,Provider_yellow,,Gut,7.7,ExtraZuhause 100 ,fiberglass
+2025-03-09 20:00:00,desktop,0.0,True,False,True,,34.53,Provider_green,,Sehr gut,8.4,Glasfaser 150 ,fiberglass
+2025-03-09 12:00:00,tabletapp,400.0,True,False,True,,4.99,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 23:00:00,desktop,200.0,True,False,True,,33.6,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 23:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 14:00:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 19:30:00,tabletapp,400.0,True,False,True,,14.45,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 22:00:00,desktop,100.0,True,False,False,,27.6,Regioprovider3,,Sehr gut,8.1,Internet 500 ,fiberglass
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,27.37,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 18:30:00,desktop,400.0,True,True,True,,14.16,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 12:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 22:30:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 500 Kabel ,cable
+2025-03-09 17:00:00,desktop,300.0,True,True,True,,40.94,Provider_green,,Sehr gut,8.9,My Zuhause XL mit MyTV Super ,dsl
+2025-03-09 21:00:00,desktop,0.0,True,False,True,,56.69,Provider_green,,Hervorragend,9.3,My Zuhause Flex L ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,27.37,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 21:00:00,desktop,300.0,True,True,True,,44.93,Provider_yellow,,Sehr gut,8.6,ExtraZuhause 250 Kabel inkl. ExtraTV Internetflix ,cable
+2025-03-09 07:30:00,desktop,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,38.85,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 20:00:00,desktop,0.0,True,False,False,,24.45,Regioprovider4,,Gut,7.0,Regio DSL 100 ,dsl
+2025-03-09 11:30:00,desktop,400.0,True,True,True,,24.02,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. ExtraTV Cable ,cable
+2025-03-09 11:00:00,tablet,200.0,True,False,True,,26.36,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 23:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-10 00:30:00,desktop,400.0,True,True,True,,12.37,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 07:00:00,desktop,400.0,True,False,True,,11.95,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 14:00:00,desktop,200.0,True,False,True,,18.74,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,32.02,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 11:00:00,tabletapp,200.0,True,False,True,,46.69,Provider_green,,Sehr gut,8.6,My Zuhause XL Hybrid ,dsl
+2025-03-09 10:30:00,desktop,300.0,True,False,True,,16.99,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,20.29,Provider_green,,Sehr gut,8.3,My Zuhause M Young ,dsl
+2025-03-09 13:30:00,desktop,300.0,True,False,True,,23.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 20:00:00,desktop,200.0,True,True,True,,33.2,Provider_yellow,,Sehr gut,8.7,ExtraZuhause CableMax 1.000 inkl. TV Connect ,cable
+2025-03-09 20:30:00,tabletapp,300.0,True,False,True,,20.28,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 250 Kabel ,cable
+2025-03-09 09:00:00,desktop,200.0,True,False,True,,18.74,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 18:30:00,desktop,400.0,True,True,True,,14.45,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 23:00:00,desktop,300.0,True,False,True,,26.16,Provider_green,,Sehr gut,8.1,My Zuhause M Regio ,dsl
+2025-03-09 12:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 23:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 01:30:00,desktop,200.0,True,False,True,,27.95,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 21:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 22:30:00,desktop,200.0,True,False,True,,25.82,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 500 Kabel ,cable
+2025-03-09 19:30:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 08:30:00,tabletapp,300.0,True,True,True,,38.16,Provider_green,,Sehr gut,8.8,My Zuhause L mit MyTV Super ,dsl
+2025-03-09 02:00:00,desktop,300.0,True,True,True,,46.36,Provider_green,,Sehr gut,8.8,My Zuhause L mit MyTV SuperplusStream ,dsl
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,32.02,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,28.27,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 500 Kabel ,cable
+2025-03-09 14:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 22:00:00,desktop,200.0,True,True,True,,36.66,Provider_yellow,,Sehr gut,8.5,ExtraZuhause CableMax 1.000 inkl. TV Connect ,cable
+2025-03-09 14:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:00:00,desktop,0.0,True,True,True,,67.61,Provider_green,,Sehr gut,8.9,Glasfaser 300 mit MyTV SuperplusStream ,fiberglass
+2025-03-09 20:30:00,desktop,400.0,True,True,True,,5.28,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 12:00:00,tabletapp,400.0,True,False,True,,4.99,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,26.36,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 17:00:00,desktop,300.0,True,True,True,,47.06,Provider_green,,Sehr gut,8.8,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,37.44,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 17:00:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 17:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 17:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 15:30:00,desktop,200.0,True,False,False,,17.81,Regioprovider2,,Gut,7.3,Full Speed 250 ,cable
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,23.28,Provider_green,,Sehr gut,8.5,My Zuhause XL Young ,dsl
+2025-03-09 16:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 03:30:00,desktop,300.0,True,True,True,,19.56,Regioprovider2,,Gut,7.7,Kombi 250 inkl. BasisTV ,cable
+2025-03-09 10:00:00,desktop,0.0,True,True,True,,89.02,Provider_green,,Hervorragend,9.0,Glasfaser 1000 mit MyTV SuperplusStream ,fiberglass
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 16:00:00,desktop,0.0,True,False,False,,34.9,Regioprovider3,,Gut,7.3,Internet 50 ,dsl
+2025-03-09 20:30:00,desktop,300.0,True,False,True,,14.91,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,30.28,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 21:30:00,desktop,200.0,True,False,True,,36.95,Provider_yellow,,Sehr gut,8.1,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,18.74,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,23.28,Provider_green,,Sehr gut,8.5,My Zuhause XL Young ,dsl
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,31.61,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 17:30:00,desktop,100.0,True,False,True,,31.77,Regioprovider3,,Sehr gut,8.1,Internet & Telefon 500 ,fiberglass
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 11:00:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 17:30:00,desktop,300.0,True,True,True,,34.52,Provider_green,,Sehr gut,8.5,My Zuhause M mit MyTV Super ,dsl
+2025-03-09 04:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 17:30:00,desktop,0.0,True,True,True,,86.94,Provider_green,,Hervorragend,9.0,Glasfaser 1000 mit MyTV SuperplusStream ,fiberglass
+2025-03-09 16:00:00,desktop,200.0,True,False,True,,26.36,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 14:30:00,desktop,200.0,True,False,True,,28.19,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 18:30:00,desktop,300.0,True,True,True,,36.86,Provider_green,,Sehr gut,8.8,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 13:30:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 21:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:30:00,desktop,300.0,True,False,True,,25.91,Provider_green,,Sehr gut,8.3,My Zuhause M ,dsl
+2025-03-09 14:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 23:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 23:00:00,desktop,200.0,True,False,False,,13.41,Regioprovider2,,Gut,7.3,Full Speed 250 ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 09:00:00,desktop,200.0,True,False,True,,18.74,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 11:30:00,desktop,300.0,True,True,True,,33.7,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 10:00:00,desktop,300.0,True,False,True,,11.11,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 250 Kabel ,cable
+2025-03-09 16:00:00,desktop,200.0,True,False,True,,27.87,Provider_green,,Sehr gut,8.6,Glasfaser 300 ,fiberglass
+2025-03-09 16:00:00,desktop,300.0,True,False,True,,16.12,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 23:00:00,desktop,400.0,True,False,True,,13.2,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:30:00,desktop,200.0,True,False,True,,28.7,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:00:00,desktop,400.0,True,False,True,,14.16,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:30:00,desktop,400.0,True,True,True,,5.28,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 11:00:00,desktop,400.0,True,True,True,,6.95,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 10:00:00,desktop,400.0,True,False,True,,5.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,36.66,Provider_yellow,,Sehr gut,8.0,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 11:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:00:00,desktop,300.0,True,False,True,,27.1,Provider_yellow,,Gut,7.9,ExtraZuhause 250 Kabel ,cable
+2025-03-09 22:30:00,desktop,200.0,True,False,True,,44.19,Provider_green,,Sehr gut,8.6,My Zuhause XL Hybrid ,dsl
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,28.7,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 18:00:00,desktop,400.0,True,False,True,,13.2,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:30:00,desktop,100.0,True,True,True,,34.69,Regioprovider3,,Sehr gut,8.5,Internet & Telefon 500 inkl. TVplus ,fiberglass
+2025-03-09 13:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:00:00,desktop,300.0,True,False,True,,21.99,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 11:00:00,desktop,200.0,True,False,False,,18.81,Regioprovider2,,Gut,7.6,Full Speed 250 ,cable
+2025-03-09 02:00:00,desktop,300.0,True,True,True,,46.36,Provider_green,,Sehr gut,8.8,My Zuhause L mit MyTV SuperplusStream ,dsl
+2025-03-09 14:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,22.79,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 09:30:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 17:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 16:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 16:30:00,desktop,0.0,True,True,True,,42.87,Provider_green,,Sehr gut,8.9,Glasfaser 300 mit MyTV Super ,fiberglass
+2025-03-09 10:00:00,desktop,400.0,True,True,True,,12.78,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 16:00:00,desktop,200.0,True,False,True,,27.87,Provider_green,,Sehr gut,8.6,Glasfaser 300 ,fiberglass
+2025-03-09 20:30:00,desktop,300.0,True,False,True,,29.23,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 22:00:00,desktop,200.0,True,True,True,,36.66,Provider_yellow,,Sehr gut,8.5,ExtraZuhause CableMax 1.000 inkl. TV Connect ,cable
+2025-03-09 15:30:00,desktop,200.0,True,False,True,,33.6,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 21:30:00,desktop,0.0,True,False,True,,42.07,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 20:30:00,desktop,400.0,True,False,True,,13.2,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 21:30:00,desktop,400.0,True,True,True,,14.99,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 15:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 23:00:00,desktop,200.0,True,False,True,,35.52,Provider_green,,Sehr gut,8.5,My Zuhause XL Young ,dsl
+2025-03-09 15:30:00,desktop,200.0,True,False,True,,17.07,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 17:30:00,tabletapp,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 12:30:00,desktop,200.0,True,False,True,,37.02,Provider_green,,Sehr gut,8.3,My Zuhause M Hybrid ,dsl
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 500 Kabel ,cable
+2025-03-09 17:00:00,desktop,300.0,True,True,True,,47.06,Provider_green,,Sehr gut,8.8,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 14:30:00,tabletapp,300.0,True,False,True,,27.1,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 14:00:00,desktop,200.0,True,True,True,,43.02,Provider_green,,Sehr gut,8.9,My Zuhause XL Young mit MyTV Super ,dsl
+2025-03-09 12:30:00,desktop,200.0,True,False,True,,26.95,Provider_yellow,,Sehr gut,8.3,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,32.36,Provider_green,,Sehr gut,8.6,Glasfaser 150 ,fiberglass
+2025-03-09 10:00:00,desktop,400.0,True,False,True,,5.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,30.28,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 20:30:00,desktop,300.0,True,False,True,,29.23,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,33.45,Provider_green,,Sehr gut,8.3,My Zuhause L Regio ,dsl
+2025-03-09 20:30:00,desktop,400.0,True,True,True,,18.27,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 12:30:00,desktop,0.0,True,False,True,,45.11,Provider_green,,Sehr gut,8.7,Glasfaser 300 ,fiberglass
+2025-03-09 12:00:00,desktop,300.0,True,True,True,,40.11,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 11:30:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,30.28,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,30.28,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 21:30:00,desktop,400.0,True,True,True,,14.99,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 11:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 19:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 15:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 14:30:00,desktop,200.0,True,False,True,,38.85,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 18:00:00,desktop,200.0,True,True,True,,26.11,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 500 Kabel inkl. TV Connect ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 13:30:00,tabletapp,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 250 Kabel ,cable
+2025-03-09 16:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 14:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 23:30:00,desktop,200.0,True,False,True,,26.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 12:00:00,desktop,200.0,True,False,True,,27.07,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 10:00:00,desktop,300.0,True,False,True,,25.91,Provider_green,,Sehr gut,8.3,My Zuhause M ,dsl
+2025-03-09 12:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 250 Kabel ,cable
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,37.44,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 19:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:30:00,tabletapp,400.0,True,False,True,,14.45,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:30:00,desktop,400.0,True,True,True,,14.16,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 11:30:00,desktop,400.0,True,True,True,,14.16,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 03:30:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 20:30:00,desktop,400.0,True,False,True,,5.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,32.62,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 12:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:00:00,tabletapp,300.0,True,False,True,,16.95,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 14:00:00,desktop,300.0,True,False,True,,20.82,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 18:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 12:00:00,desktop,300.0,True,False,True,,27.1,Provider_yellow,,Gut,7.9,ExtraZuhause 250 Kabel ,cable
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,22.79,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 10:00:00,tablet,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 500 Kabel ,cable
+2025-03-09 08:30:00,desktop,200.0,True,False,True,,24.1,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 17:30:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 19:30:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:30:00,desktop,400.0,True,False,True,,20.44,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:30:00,desktop,0.0,True,False,True,,42.07,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,26.36,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 19:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 12:00:00,desktop,200.0,True,False,True,,16.37,Provider_green,,Sehr gut,8.2,My Zuhause M Young ,dsl
+2025-03-09 12:30:00,desktop,0.0,True,False,True,,34.45,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 500 Kabel ,cable
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,32.02,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 19:30:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,38.85,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,28.28,Provider_green,,Sehr gut,8.5,My Zuhause XL Young ,dsl
+2025-03-09 10:00:00,desktop,200.0,True,False,False,,33.95,Regioprovider1,,Gut,7.8,InternetSpeed 250 ,cable
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,29.94,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 14:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 11:00:00,tabletapp,200.0,True,False,True,,46.69,Provider_green,,Sehr gut,8.6,My Zuhause XL Hybrid ,dsl
+2025-03-09 16:00:00,desktop,0.0,True,False,True,,40.65,Provider_green,,Sehr gut,8.6,Glasfaser 300 ,fiberglass
+2025-03-09 21:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 13:30:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 22:30:00,tabletapp,0.0,True,False,True,,34.53,Provider_green,,Sehr gut,8.4,Glasfaser 150 ,fiberglass
+2025-03-09 20:00:00,desktop,300.0,True,True,True,,18.62,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 250 Kabel inkl. TV Connect ,cable
+2025-03-09 15:30:00,desktop,0.0,True,False,True,,36.65,Provider_blue,,Gut,7.0,Home S (Kabel) ,cable
+2025-03-09 12:00:00,desktop,300.0,True,True,True,,40.11,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 18:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,21.4,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 18:30:00,desktop,0.0,True,False,False,,29.95,Regioprovider1,,Gut,7.9,InternetSpeed Young 100 ,dsl
+2025-03-09 18:30:00,desktop,300.0,True,False,True,,17.78,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 250 Kabel ,cable
+2025-03-09 23:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,27.37,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 17:00:00,desktop,200.0,True,False,True,,35.23,Provider_yellow,,Gut,7.7,ExtraZuhause 100 ,fiberglass
+2025-03-09 21:00:00,desktop,200.0,True,True,True,,27.2,Provider_green,,Sehr gut,8.6,My Zuhause L Young mit MyTV Super ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 12:00:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 01:00:00,desktop,400.0,True,False,True,,14.45,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:00:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-10 00:00:00,desktop,200.0,True,False,True,,26.36,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,desktop,100.0,True,False,False,,30.52,Regioprovider3,,Gut,7.5,Internet 100 ,fiberglass
+2025-03-09 16:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 14:00:00,tabletapp,400.0,True,False,True,,11.95,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:30:00,desktop,200.0,True,False,True,,37.03,Regioprovider1,,Gut,7.8,Kombipaket 250 ,dsl
+2025-03-09 14:00:00,tabletapp,400.0,True,False,True,,11.95,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,31.61,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,36.95,Provider_yellow,,Sehr gut,8.3,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 21:00:00,desktop,200.0,True,False,True,,29.4,Provider_green,,Sehr gut,8.4,Glasfaser 150 ,fiberglass
+2025-03-09 11:00:00,tabletapp,200.0,True,False,True,,19.94,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 06:30:00,desktop,200.0,True,False,True,,29.52,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 23:30:00,desktop,200.0,True,False,True,,26.36,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,35.94,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 23:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 10:30:00,desktop,400.0,True,False,True,,20.44,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 14:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 07:30:00,desktop,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 15:30:00,desktop,200.0,True,False,True,,33.6,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 14:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,29.94,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 10:00:00,desktop,0.0,True,False,True,,35.37,Provider_green,,Sehr gut,8.6,Glasfaser 300 ,fiberglass
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 14:00:00,desktop,300.0,True,False,True,,20.82,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 15:30:00,desktop,0.0,True,False,True,,37.74,Provider_green,,Sehr gut,8.6,Glasfaser 300 ,fiberglass
+2025-03-09 18:30:00,desktop,300.0,True,False,True,,19.03,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,16.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 14:30:00,desktop,200.0,True,False,True,,31.61,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,16.37,Provider_green,,Sehr gut,8.2,My Zuhause M Young ,dsl
+2025-03-09 10:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:30:00,desktop,200.0,True,False,True,,36.95,Provider_yellow,,Sehr gut,8.3,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 18:00:00,desktop,400.0,True,False,True,,14.16,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 23:00:00,desktop,300.0,True,False,True,,30.73,Provider_green,,Sehr gut,8.3,My Zuhause M ,dsl
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,mobile,0.0,True,False,True,,44.48,Regioprovider6,,Gut,7.9,Glasfaser 100 ,fiberglass
+2025-03-09 21:00:00,desktop,300.0,True,True,True,,44.93,Provider_yellow,,Sehr gut,8.6,ExtraZuhause 250 Kabel inkl. ExtraTV Internetflix ,cable
+2025-03-09 11:00:00,desktop,200.0,True,True,True,,36.95,Provider_yellow,,Sehr gut,8.5,ExtraZuhause CableMax 1.000 inkl. TV Connect ,cable
+2025-03-09 14:00:00,desktop,0.0,True,False,False,,35.86,Provider_green,,Gut,7.9,My Zuhause XS (12 Monate) ,dsl
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,17.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 17:00:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 07:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,27.37,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,30.12,Provider_green,,Sehr gut,8.5,My Zuhause XL Young ,dsl
+2025-03-09 11:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:30:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 250 Kabel ,cable
+2025-03-09 08:00:00,desktop,200.0,True,True,True,,36.95,Provider_yellow,,Sehr gut,8.4,ExtraZuhause CableMax 1.000 inkl. TV Connect ,cable
+2025-03-09 20:30:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 09:00:00,tablet,200.0,True,False,True,,44.19,Provider_green,,Sehr gut,8.6,My Zuhause XL Hybrid ,dsl
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,16.37,Provider_green,,Sehr gut,8.2,My Zuhause M Young ,dsl
+2025-03-09 21:00:00,desktop,0.0,True,False,True,,56.69,Provider_green,,Hervorragend,9.3,My Zuhause Flex L ,dsl
+2025-03-09 11:30:00,desktop,300.0,True,True,True,,33.7,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 09:30:00,desktop,0.0,True,False,True,,44.98,Provider_blue,,Gut,7.8,Home XL (Kabel) ,cable
+2025-03-09 21:00:00,desktop,300.0,True,True,True,,44.93,Provider_yellow,,Sehr gut,8.6,ExtraZuhause 250 Kabel inkl. ExtraTV Internetflix ,cable
+2025-03-09 17:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 18:30:00,desktop,0.0,True,False,True,,33.7,Regioprovider8,,Ausreichend,5.6,Regio@home M ,fiberglass
+2025-03-09 05:00:00,desktop,300.0,True,True,True,,16.12,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 250 Kabel inkl. TV Connect ,cable
+2025-03-09 15:30:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 12:00:00,tabletapp,400.0,True,False,True,,4.99,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:30:00,desktop,0.0,True,True,True,,37.2,Provider_green,,Gut,7.8,My Zuhause S mit MyTV Super ,dsl
+2025-03-09 14:30:00,desktop,400.0,True,False,True,,6.95,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:00:00,desktop,400.0,True,True,True,,14.99,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 23:00:00,tabletapp,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 03:30:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 21:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,10.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,29.1,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 500 Kabel ,cable
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 01:30:00,desktop,200.0,True,False,True,,27.95,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 21:00:00,desktop,0.0,True,False,True,,69.56,Provider_blue,,Sehr gut,8.2,Home XXL flex (Kabel) ,cable
+2025-03-09 08:30:00,desktop,200.0,True,False,True,,24.1,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,30.69,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 05:00:00,desktop,200.0,True,False,True,,21.19,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 09:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,22.79,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 500 Kabel ,cable
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,20.27,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:00:00,desktop,200.0,True,False,True,,27.87,Provider_green,,Sehr gut,8.6,Glasfaser 300 ,fiberglass
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,38.85,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,35.53,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 12:00:00,tabletapp,400.0,True,False,True,,4.99,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 13:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,24.12,Provider_green,,Sehr gut,8.4,Glasfaser 150 ,fiberglass
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,16.11,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 500 Kabel ,cable
+2025-03-09 22:30:00,desktop,200.0,True,False,True,,45.6,Provider_green,,Sehr gut,8.6,My Zuhause XL Hybrid ,dsl
+2025-03-09 11:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 14:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 13:00:00,desktop,300.0,True,True,True,,21.11,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 250 Kabel inkl. TV Connect ,cable
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,30.28,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 18:30:00,tabletapp,200.0,True,False,True,,24.28,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 03:30:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,35.1,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,31.61,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,30.35,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 11:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,desktop,0.0,True,False,True,,56.69,Provider_green,,Hervorragend,9.3,My Zuhause Flex L ,dsl
+2025-03-09 12:00:00,desktop,0.0,True,False,False,,21.37,Resaleprovider1,,Ausreichend,5.4,Homespot S (50 GB) ,lte
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,24.99,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 15:00:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 17:00:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 23:30:00,tablet,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 12:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 250 Kabel ,cable
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,18.74,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 07:30:00,desktop,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 19:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,28.7,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,30.35,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,28.74,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 12:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 15:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 12:30:00,desktop,200.0,True,False,True,,38.02,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 19:00:00,desktop,300.0,True,False,True,,22.99,Provider_green,,Sehr gut,8.3,My Zuhause M ,dsl
+2025-03-09 14:00:00,tabletapp,400.0,True,False,True,,11.95,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 14:00:00,desktop,200.0,True,False,True,,27.37,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,14.45,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 09:30:00,tabletapp,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 12:30:00,desktop,400.0,True,True,True,,18.31,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,27.37,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,22.02,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,38.85,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,32.02,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 18:00:00,desktop,400.0,True,False,True,,13.2,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:00:00,desktop,0.0,True,False,True,,37.03,Regioprovider5,,Befriedigend,6.9,Komplett easy speed ,dsl
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:30:00,desktop,300.0,True,False,True,,22.99,Provider_green,,Sehr gut,8.3,My Zuhause M ,dsl
+2025-03-09 17:30:00,desktop,100.0,True,False,True,,31.77,Regioprovider3,,Sehr gut,8.1,Internet & Telefon 500 ,fiberglass
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 500 Kabel ,cable
+2025-03-09 09:00:00,desktop,200.0,True,False,True,,18.74,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,38.28,Provider_green,,Sehr gut,8.6,Glasfaser 600 ,fiberglass
+2025-03-09 21:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 09:00:00,tabletapp,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 14:30:00,desktop,200.0,True,False,True,,38.85,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 15:30:00,tabletapp,400.0,True,False,True,,19.03,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:30:00,desktop,300.0,True,False,True,,19.03,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 15:00:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:00:00,app,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 21:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:30:00,desktop,100.0,True,False,False,,33.83,Regioprovider1,,Gut,7.6,InternetSpeed 100 ,fiberglass
+2025-03-09 21:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,47.1,Provider_green,,Sehr gut,8.6,My Zuhause XL Hybrid ,dsl
+2025-03-09 14:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,30.35,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,16.45,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 16:00:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:30:00,desktop,200.0,True,True,True,,34.85,Provider_yellow,,Sehr gut,8.7,ExtraZuhause 500 Kabel inkl. ExtraTV Cable ,cable
+2025-03-09 14:00:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 11:00:00,tablet,200.0,True,False,True,,26.36,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 08:00:00,app,400.0,True,False,True,,-0.43,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 12:00:00,desktop,0.0,True,False,False,,21.37,Resaleprovider1,,Ausreichend,5.4,Homespot S (50 GB) ,lte
+2025-03-09 12:30:00,desktop,200.0,True,False,True,,16.37,Provider_green,,Sehr gut,8.2,My Zuhause M Young ,dsl
+2025-03-09 11:00:00,tabletapp,400.0,True,True,True,,24.02,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 100 Kabel inkl. ExtraTV Cable ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,36.95,Provider_yellow,,Sehr gut,8.4,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 10:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,23.61,Provider_green,,Sehr gut,8.3,My Zuhause M Young ,dsl
+2025-03-09 22:00:00,app,300.0,True,True,True,,48.99,Provider_green,,Sehr gut,8.9,My Zuhause XL mit MyTV SuperStream ,dsl
+2025-03-09 11:00:00,desktop,200.0,True,False,True,,30.35,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 14:30:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 21:00:00,desktop,300.0,True,False,True,,20.28,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 250 Kabel ,cable
+2025-03-09 11:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 250 Kabel ,cable
+2025-03-09 21:30:00,desktop,400.0,True,True,True,,14.99,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 10:00:00,desktop,300.0,True,True,True,,36.61,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,False,,13.41,Regioprovider2,,Gut,7.3,Full Speed 250 ,cable
+2025-03-09 16:00:00,desktop,200.0,True,False,True,,26.36,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 18:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:00:00,desktop,200.0,True,False,True,,35.07,Provider_yellow,,Sehr gut,8.4,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 20:00:00,desktop,400.0,True,True,True,,18.2,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 21:00:00,desktop,200.0,True,False,True,,36.95,Provider_yellow,,Sehr gut,8.3,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,28.95,Provider_yellow,,Gut,7.7,ExtraZuhause 100 ,fiberglass
+2025-03-09 11:00:00,desktop,0.0,True,False,True,,52.27,Provider_green,,Hervorragend,9.3,My Zuhause Flex L ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 500 Kabel ,cable
+2025-03-09 13:00:00,desktop,300.0,True,True,True,,21.11,Provider_yellow,,Sehr gut,8.6,ExtraZuhause 250 Kabel inkl. TV Connect ,cable
+2025-03-09 17:00:00,desktop,0.0,True,False,True,,44.48,Regioprovider6,,Gut,7.7,Glasfaser 100 ,fiberglass
+2025-03-09 23:00:00,desktop,200.0,True,False,True,,20.29,Provider_green,,Sehr gut,8.3,My Zuhause M Young ,dsl
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,24.12,Provider_green,,Sehr gut,8.4,Glasfaser 150 ,fiberglass
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,32.02,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 12:30:00,desktop,0.0,True,False,True,,34.45,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 500 Kabel ,cable
+2025-03-09 23:00:00,desktop,200.0,True,False,True,,37.77,Provider_green,,Sehr gut,8.5,My Zuhause L Regio ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,27.37,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 12:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 12:30:00,desktop,400.0,True,True,True,,18.31,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 14:30:00,desktop,200.0,True,True,True,,45.53,Provider_green,,Sehr gut,8.9,My Zuhause XL Young mit MyTV Super ,dsl
+2025-03-09 21:00:00,desktop,0.0,True,False,True,,69.56,Provider_blue,,Sehr gut,8.2,Home XXL flex (Kabel) ,cable
+2025-03-09 17:30:00,desktop,300.0,True,True,True,,21.11,Provider_yellow,,Sehr gut,8.6,ExtraZuhause 250 Kabel inkl. TV Connect ,cable
+2025-03-09 23:30:00,desktop,0.0,True,False,True,,42.48,Provider_blue,,Gut,7.4,Home M (DSL) ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,36.95,Provider_yellow,,Sehr gut,8.1,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 23:00:00,desktop,400.0,True,False,True,,13.2,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,28.74,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 23:00:00,desktop,200.0,True,False,True,,26.24,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:30:00,desktop,200.0,True,False,False,,13.41,Regioprovider2,,Gut,7.3,Full Speed 250 ,cable
+2025-03-09 11:00:00,desktop,200.0,True,False,True,,32.19,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,app,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:30:00,tabletapp,400.0,True,False,True,,13.2,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:00:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 12:00:00,desktop,400.0,True,False,True,,11.95,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:00:00,desktop,300.0,True,True,True,,48.7,Provider_green,,Sehr gut,8.8,My Zuhause XL mit MyTV SuperplusStream ,dsl
+2025-03-09 22:30:00,desktop,400.0,True,False,True,,19.44,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,23.28,Provider_green,,Sehr gut,8.5,My Zuhause XL Young ,dsl
+2025-03-09 23:00:00,desktop,200.0,True,False,False,,13.41,Regioprovider2,,Gut,7.3,Full Speed 250 ,cable
+2025-03-10 00:00:00,desktop,200.0,True,False,True,,26.36,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 12:30:00,desktop,300.0,True,False,True,,20.82,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 09:00:00,app,100.0,True,False,True,,28.45,Regioprovider4,,Gut,7.4,Regio DSL 250 inkl. Telefon-Flatrate ,dsl
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 20:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 01:00:00,desktop,200.0,True,False,False,,39.91,Regioprovider1,,Sehr gut,8.1,InternetSpeed 250 ,fiberglass
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,22.02,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 09:00:00,desktop,400.0,True,False,True,,13.62,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 22:30:00,tabletapp,0.0,True,False,True,,34.53,Provider_green,,Sehr gut,8.4,Glasfaser 150 ,fiberglass
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,45.94,Provider_yellow,,Sehr gut,8.0,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,28.95,Provider_yellow,,Gut,7.7,ExtraZuhause 100 ,fiberglass
+2025-03-09 14:30:00,desktop,200.0,True,False,True,,31.61,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 10:30:00,desktop,300.0,True,True,True,,36.61,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 14:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 15:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:00:00,tablet,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 22:30:00,desktop,0.0,True,False,True,,46.52,Provider_green,,Sehr gut,8.6,Glasfaser 300 ,fiberglass
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 500 Kabel ,cable
+2025-03-09 22:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,38.11,Provider_green,,Sehr gut,8.5,My Zuhause L Hybrid ,dsl
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 08:00:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 11:00:00,tabletapp,400.0,True,True,True,,24.02,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 100 Kabel inkl. ExtraTV Cable ,cable
+2025-03-09 22:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,22.02,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 23:00:00,tabletapp,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 20:00:00,desktop,300.0,True,True,True,,30.02,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 250 Kabel inkl. TV Connect ,cable
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,24.99,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 12:30:00,desktop,0.0,True,True,True,,34.45,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 500 Kabel inkl. TV Connect ,cable
+2025-03-09 18:00:00,tabletapp,300.0,True,False,True,,16.95,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 15:30:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 14:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,29.52,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 16:00:00,desktop,300.0,True,False,True,,16.12,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,39.94,Provider_yellow,,Sehr gut,8.3,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 19:00:00,desktop,300.0,True,False,True,,21.99,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 17:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 11:00:00,desktop,0.0,True,False,False,,21.37,Resaleprovider1,,Ausreichend,5.7,Homespot S (50 GB) ,lte
+2025-03-09 11:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,45.94,Provider_yellow,,Sehr gut,8.0,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 18:00:00,desktop,0.0,True,False,False,,59.03,Provider_yellow,,Gut,7.9,ExtraLTE Zuhause Flex Young ,lte
+2025-03-09 20:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 11:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 13:30:00,desktop,400.0,True,False,True,,3.62,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 16:00:00,desktop,0.0,True,True,True,,45.6,Provider_blue,,Gut,7.9,Home M inkl. TV M (Kabel) ,cable
+2025-03-09 15:30:00,desktop,0.0,True,False,True,,37.74,Provider_green,,Sehr gut,8.6,Glasfaser 300 ,fiberglass
+2025-03-09 17:00:00,desktop,200.0,True,True,True,,36.66,Provider_yellow,,Sehr gut,8.5,ExtraZuhause CableMax 1.000 inkl. TV Connect ,cable
+2025-03-09 12:30:00,desktop,200.0,True,False,True,,38.02,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 16:00:00,desktop,400.0,True,False,True,,20.44,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:30:00,desktop,200.0,True,False,True,,16.37,Provider_green,,Sehr gut,8.2,My Zuhause M Young ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,26.24,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 11:00:00,tabletapp,400.0,True,True,True,,24.02,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 100 Kabel inkl. ExtraTV Cable ,cable
+2025-03-09 11:00:00,desktop,0.0,True,True,True,,67.61,Provider_green,,Sehr gut,8.9,Glasfaser 300 mit MyTV SuperplusStream ,fiberglass
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Gut,7.5,My Zuhause S ,dsl
+2025-03-09 14:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 16:30:00,desktop,0.0,True,True,True,,42.87,Provider_green,,Sehr gut,8.9,Glasfaser 300 mit MyTV Super ,fiberglass
+2025-03-09 11:00:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 13:30:00,desktop,400.0,True,False,True,,10.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:30:00,desktop,300.0,True,False,True,,14.91,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 12:30:00,desktop,200.0,True,False,True,,26.95,Provider_yellow,,Sehr gut,8.3,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 21:30:00,tabletapp,400.0,True,False,True,,13.2,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 18:30:00,desktop,0.0,True,False,True,,52.38,Regioprovider3,,Sehr gut,8.0,Internet & Telefon 250 ,fiberglass
+2025-03-09 20:30:00,desktop,200.0,True,False,False,,17.81,Regioprovider2,,Gut,7.6,Full Speed 250 ,cable
+2025-03-09 21:00:00,desktop,400.0,True,False,True,,14.16,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:30:00,desktop,0.0,True,False,False,,67.78,Provider_yellow,,Sehr gut,8.2,ExtraLTE Zuhause Unlimited ,lte
+2025-03-09 17:30:00,desktop,300.0,True,False,True,,25.91,Provider_green,,Sehr gut,8.3,My Zuhause M ,dsl
+2025-03-09 17:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,28.95,Provider_yellow,,Gut,7.7,ExtraZuhause 100 ,fiberglass
+2025-03-09 21:30:00,desktop,200.0,True,False,False,,13.41,Regioprovider2,,Gut,7.3,Full Speed 250 ,cable
+2025-03-09 15:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 22:30:00,desktop,200.0,True,False,True,,25.82,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 500 Kabel ,cable
+2025-03-09 22:30:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 500 Kabel ,cable
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,28.7,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 10:00:00,desktop,300.0,True,True,True,,36.61,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 19:00:00,desktop,300.0,True,False,True,,22.99,Provider_green,,Sehr gut,8.3,My Zuhause M ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,47.1,Provider_green,,Sehr gut,8.6,My Zuhause XL Hybrid ,dsl
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 500 Kabel ,cable
+2025-03-09 17:00:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,32.02,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 16:00:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:30:00,desktop,0.0,True,False,False,,67.78,Provider_yellow,,Sehr gut,8.2,ExtraLTE Zuhause Unlimited ,lte
+2025-03-09 08:30:00,desktop,200.0,True,False,True,,31.61,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 23:30:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Gut,7.9,ExtraZuhause 250 Kabel ,cable
+2025-03-09 18:00:00,desktop,400.0,True,False,True,,14.16,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 09:00:00,desktop,200.0,True,False,True,,18.74,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,28.95,Provider_yellow,,Gut,7.7,ExtraZuhause 100 ,fiberglass
+2025-03-09 12:00:00,tabletapp,400.0,True,False,True,,4.99,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:00:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,36.95,Provider_yellow,,Sehr gut,8.4,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 12:00:00,tablet,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 250 Kabel ,cable
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 500 Kabel ,cable
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 14:00:00,tabletapp,300.0,True,False,True,,22.94,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 250 Kabel ,cable
+2025-03-09 15:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:00:00,desktop,300.0,True,True,True,,18.62,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 250 Kabel inkl. TV Connect ,cable
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,30.47,Regioprovider2,,Gut,7.4,Full Speed 1.000 inkl. Telefonflat ,cable
+2025-03-09 23:00:00,desktop,300.0,True,False,True,,26.16,Provider_green,,Sehr gut,8.1,My Zuhause M Regio ,dsl
+2025-03-09 11:00:00,desktop,400.0,True,True,True,,6.95,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 14:00:00,desktop,200.0,True,False,True,,18.74,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,27.37,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 14:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,26.36,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 22:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 22:00:00,desktop,300.0,True,True,True,,47.6,Provider_green,,Sehr gut,8.8,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,32.62,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,28.74,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 23:00:00,desktop,200.0,True,False,True,,35.52,Provider_green,,Sehr gut,8.5,My Zuhause XL Young ,dsl
+2025-03-09 13:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:30:00,desktop,200.0,True,False,True,,36.95,Provider_yellow,,Sehr gut,8.1,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 19:30:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 20:30:00,desktop,300.0,True,False,True,,14.91,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 12:00:00,desktop,300.0,True,True,True,,20.56,Regioprovider2,,Gut,7.9,Kombi 250 inkl. BasisTV ,cable
+2025-03-09 13:30:00,desktop,400.0,True,False,True,,3.62,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 20:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 04:00:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 14:30:00,desktop,200.0,True,True,True,,45.53,Provider_green,,Sehr gut,8.9,My Zuhause XL Young mit MyTV Super ,dsl
+2025-03-09 03:30:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 11:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,24.12,Provider_green,,Sehr gut,8.4,Glasfaser 150 ,fiberglass
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 14:30:00,tabletapp,300.0,True,True,True,,39.44,Provider_green,,Sehr gut,8.8,My Zuhause L mit MyTV Super ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,30.35,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 21:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 17:00:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 11:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 250 Kabel ,cable
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,16.37,Provider_green,,Sehr gut,8.2,My Zuhause M Young ,dsl
+2025-03-09 08:00:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 15:00:00,desktop,300.0,True,True,True,,31.36,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV Super ,dsl
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,20.27,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 14:00:00,desktop,200.0,True,False,True,,28.74,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,True,True,,34.85,Provider_yellow,,Sehr gut,8.7,ExtraZuhause 500 Kabel inkl. ExtraTV Cable ,cable
+2025-03-09 21:00:00,mobile,0.0,True,False,True,,44.48,Regioprovider6,,Gut,7.9,Glasfaser 100 ,fiberglass
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,30.28,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 21:00:00,desktop,200.0,True,False,True,,32.02,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 21:00:00,desktop,400.0,True,False,True,,14.16,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 23:00:00,tabletapp,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 20:00:00,desktop,400.0,True,True,True,,14.99,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 15:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 250 Kabel ,cable
+2025-03-09 12:30:00,desktop,200.0,True,False,True,,16.37,Provider_green,,Sehr gut,8.2,My Zuhause M Young ,dsl
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 22:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:00:00,desktop,200.0,True,True,True,,44.95,Provider_green,,Sehr gut,8.9,My Zuhause XL Young mit MyTV SuperStream ,dsl
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 01:30:00,desktop,0.0,True,False,True,,54.27,Provider_yellow,,Sehr gut,8.0,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,30.28,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 16:30:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 10:00:00,desktop,400.0,True,False,True,,14.16,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 09:30:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 17:00:00,desktop,300.0,True,True,True,,47.06,Provider_green,,Sehr gut,8.8,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 10:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 250 Kabel ,cable
+2025-03-09 15:30:00,desktop,0.0,True,False,True,,36.65,Provider_blue,,Gut,7.0,Home S (Kabel) ,cable
+2025-03-09 17:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,desktop,0.0,True,False,True,,38.28,Provider_green,,Sehr gut,8.6,Glasfaser 300 ,fiberglass
+2025-03-09 21:00:00,desktop,0.0,True,False,False,,26.95,Regioprovider4,,Gut,7.1,Regio DSL 250 ,dsl
+2025-03-09 22:30:00,desktop,200.0,True,False,True,,45.6,Provider_green,,Sehr gut,8.6,My Zuhause XL Hybrid ,dsl
+2025-03-09 20:00:00,desktop,0.0,True,False,True,,34.53,Provider_green,,Sehr gut,8.4,Glasfaser 150 ,fiberglass
+2025-03-09 22:00:00,desktop,200.0,True,True,True,,32.87,Provider_green,,Sehr gut,8.9,Glasfaser 300 mit MyTV Super ,fiberglass
+2025-03-10 00:30:00,desktop,400.0,True,True,True,,12.37,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 20:30:00,desktop,400.0,True,True,True,,14.16,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 08:00:00,desktop,0.0,True,False,True,,21.24,Provider_yellow,,Gut,7.1,ExtraZuhause 16 DSL ,dsl
+2025-03-09 01:30:00,desktop,200.0,True,False,True,,27.95,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,25.28,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 500 Kabel ,cable
+2025-03-09 17:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 13:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,38.85,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,10.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 13:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 250 Kabel ,cable
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:00:00,desktop,0.0,True,False,False,,26.95,Regioprovider4,,Gut,7.1,Regio DSL 250 ,dsl
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,27.07,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 22:30:00,desktop,200.0,True,False,True,,45.6,Provider_green,,Sehr gut,8.6,My Zuhause XL Hybrid ,dsl
+2025-03-09 10:00:00,desktop,400.0,True,True,True,,12.78,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 14:00:00,desktop,0.0,True,False,True,,36.9,Provider_green,,Sehr gut,8.4,Glasfaser 150 ,fiberglass
+2025-03-09 08:30:00,tabletapp,300.0,True,True,True,,38.16,Provider_green,,Sehr gut,8.8,My Zuhause L mit MyTV Super ,dsl
+2025-03-09 17:30:00,desktop,300.0,True,True,True,,21.11,Provider_yellow,,Sehr gut,8.6,ExtraZuhause 250 Kabel inkl. TV Connect ,cable
+2025-03-09 11:00:00,desktop,200.0,True,False,True,,30.47,Regioprovider2,,Gut,7.4,Full Speed 1.000 inkl. Telefonflat ,cable
+2025-03-09 08:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:00:00,desktop,100.0,True,False,False,,31.77,Regioprovider3,,Gut,7.8,Internet 500 ,fiberglass
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 10:30:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 19:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 14:00:00,desktop,200.0,True,False,True,,30.35,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:30:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 23:30:00,desktop,0.0,True,False,True,,42.48,Provider_blue,,Gut,7.4,Home M (DSL) ,dsl
+2025-03-09 16:30:00,tabletapp,300.0,True,True,True,,52.62,Provider_green,,Sehr gut,8.9,My Zuhause XL mit MyTV SuperplusStream ,dsl
+2025-03-09 19:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:30:00,desktop,300.0,True,False,True,,17.78,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 250 Kabel ,cable
+2025-03-09 10:30:00,desktop,300.0,True,True,True,,31.36,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV Super ,dsl
+2025-03-09 19:30:00,tabletapp,400.0,True,False,True,,14.45,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 13:30:00,desktop,0.0,True,False,True,,46.52,Provider_green,,Sehr gut,8.7,Glasfaser 300 ,fiberglass
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,31.61,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,28.19,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 15:30:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,23.28,Provider_green,,Sehr gut,8.5,My Zuhause XL Young ,dsl
+2025-03-09 17:00:00,desktop,200.0,True,False,True,,27.07,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 18:00:00,tabletapp,300.0,True,False,True,,16.95,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 19:30:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:00:00,desktop,300.0,True,True,True,,36.61,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 15:30:00,desktop,100.0,True,True,True,,21.11,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 50 Kabel inkl. TV Connect ,cable
+2025-03-09 16:00:00,desktop,0.0,True,False,False,,34.9,Regioprovider3,,Gut,7.3,Internet 50 ,dsl
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,35.1,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,26.91,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 15:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:00:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 17:00:00,desktop,200.0,True,False,True,,27.07,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 12:00:00,desktop,200.0,True,False,True,,27.07,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 11:00:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 21:30:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 16:30:00,desktop,400.0,True,False,True,,13.32,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 15:30:00,desktop,200.0,True,False,True,,37.03,Regioprovider1,,Gut,7.8,Kombipaket 250 ,dsl
+2025-03-09 20:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 13:30:00,desktop,0.0,True,False,True,,46.52,Provider_green,,Sehr gut,8.7,Glasfaser 300 ,fiberglass
+2025-03-09 16:00:00,desktop,400.0,True,False,True,,20.44,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:00:00,desktop,0.0,True,False,False,,24.45,Regioprovider4,,Gut,7.0,Regio DSL 100 ,dsl
+2025-03-09 15:00:00,desktop,300.0,True,False,True,,25.91,Provider_green,,Sehr gut,8.3,My Zuhause M ,dsl
+2025-03-09 11:00:00,desktop,200.0,True,False,True,,30.78,Provider_green,,Sehr gut,8.6,Glasfaser 300 ,fiberglass
+2025-03-09 22:00:00,desktop,100.0,True,False,False,,27.6,Regioprovider3,,Sehr gut,8.1,Internet 500 ,fiberglass
+2025-03-09 18:00:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 09:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,30.35,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 250 DSL ,dsl
+2025-03-09 21:00:00,desktop,300.0,True,False,True,,25.91,Provider_green,,Sehr gut,8.3,My Zuhause M ,dsl
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 14:00:00,desktop,0.0,True,False,False,,35.86,Provider_green,,Gut,7.9,My Zuhause XS (12 Monate) ,dsl
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,23.61,Provider_green,,Sehr gut,8.3,My Zuhause M Young ,dsl
+2025-03-09 13:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:30:00,desktop,400.0,True,False,True,,21.27,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:30:00,desktop,400.0,True,True,True,,14.16,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 22:00:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 500 Kabel ,cable
+2025-03-09 16:00:00,desktop,200.0,True,False,True,,29.52,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 10:00:00,desktop,400.0,True,False,True,,14.16,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 23:00:00,desktop,0.0,True,True,True,,50.49,Provider_green,,Sehr gut,8.9,Glasfaser 300 mit MyTV SuperStream ,fiberglass
+2025-03-09 11:00:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 12:00:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 21:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 13:30:00,desktop,0.0,True,False,True,,46.52,Provider_green,,Sehr gut,8.7,Glasfaser 300 ,fiberglass
+2025-03-09 20:00:00,desktop,100.0,True,False,False,,25.11,Regioprovider3,,Gut,7.5,Internet 100 ,fiberglass
+2025-03-09 23:30:00,desktop,200.0,True,False,True,,49.69,Provider_yellow,,Sehr gut,8.3,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 14:00:00,desktop,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 14:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 16:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:00:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 18:30:00,desktop,100.0,True,False,True,,26.24,Regioprovider7,,Gut,7.5,Regio classic 300 CHECK24 Spezial ,fiberglass
+2025-03-09 20:00:00,desktop,400.0,True,False,True,,20.44,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 09:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 10:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 14:00:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 500 Kabel ,cable
+2025-03-09 22:00:00,app,300.0,True,True,True,,48.99,Provider_green,,Sehr gut,8.9,My Zuhause XL mit MyTV SuperStream ,dsl
+2025-03-09 04:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 250 Kabel ,cable
+2025-03-09 10:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 07:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 23:00:00,desktop,0.0,True,True,True,,50.49,Provider_green,,Sehr gut,8.9,Glasfaser 300 mit MyTV SuperStream ,fiberglass
+2025-03-09 20:30:00,desktop,400.0,True,False,True,,14.45,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,40.69,Provider_green,,Sehr gut,8.3,My Zuhause L Regio ,dsl
+2025-03-09 12:00:00,desktop,200.0,True,False,True,,12.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 19:30:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,16.37,Provider_green,,Sehr gut,8.2,My Zuhause M Young ,dsl
+2025-03-09 16:00:00,tabletapp,0.0,True,False,True,,44.56,Provider_blue,,Sehr gut,8.3,Home S flex (Kabel) ,cable
+2025-03-09 11:00:00,desktop,200.0,True,True,True,,36.95,Provider_yellow,,Sehr gut,8.5,ExtraZuhause CableMax 1.000 inkl. TV Connect ,cable
+2025-03-09 18:30:00,desktop,400.0,True,True,True,,14.16,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 11:30:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:00:00,desktop,300.0,True,True,True,,27.99,Provider_green,,Sehr gut,8.6,My Zuhause M mit MyTV Super ,dsl
+2025-03-09 20:00:00,tabletapp,400.0,True,True,True,,14.86,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. ExtraTV Cable ,cable
+2025-03-09 11:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 20:30:00,desktop,100.0,True,False,False,,31.77,Regioprovider3,,Sehr gut,8.1,Internet 500 ,fiberglass
+2025-03-09 01:30:00,desktop,200.0,True,False,True,,27.95,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 10:30:00,desktop,0.0,True,False,True,,49.86,Provider_blue,,Gut,7.6,Home L (DSL) ,dsl
+2025-03-09 19:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 21:30:00,desktop,400.0,True,True,True,,14.99,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 09:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:00:00,desktop,200.0,True,False,False,,34.87,Regioprovider1,,Sehr gut,8.1,InternetSpeed 250 ,fiberglass
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 15:30:00,tabletapp,400.0,True,False,True,,19.03,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:00:00,desktop,400.0,True,False,True,,13.2,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 12:30:00,desktop,200.0,True,True,True,,22.1,Provider_yellow,,Sehr gut,8.7,ExtraZuhause 500 Kabel inkl. TV Connect ,cable
+2025-03-09 21:30:00,desktop,200.0,True,False,True,,36.9,Provider_yellow,,Gut,7.9,ExtraZuhause 250 ,fiberglass
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,16.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 12:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 11:30:00,desktop,200.0,True,False,False,,13.41,Regioprovider2,,Gut,7.3,Full Speed 250 ,cable
+2025-03-09 04:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 17:30:00,desktop,400.0,True,False,True,,10.28,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 100 Kabel ,cable
+2025-03-09 07:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 10:30:00,tabletapp,100.0,True,False,True,,26.37,Regioprovider4,,Gut,7.4,Regio DSL 250 inkl. Telefon-Flatrate ,dsl
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,38.28,Provider_green,,Sehr gut,8.6,Glasfaser 600 ,fiberglass
+2025-03-09 09:30:00,tablet,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 14:00:00,desktop,300.0,True,False,True,,15.83,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 12:30:00,desktop,200.0,True,False,True,,16.37,Provider_green,,Sehr gut,8.2,My Zuhause M Young ,dsl
+2025-03-09 13:00:00,desktop,300.0,True,True,True,,21.11,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 250 Kabel inkl. TV Connect ,cable
+2025-03-09 13:00:00,desktop,0.0,True,False,False,,24.45,Regioprovider4,,Gut,7.0,Regio DSL 100 ,dsl
+2025-03-09 10:00:00,desktop,400.0,True,True,True,,12.78,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 18:30:00,tabletapp,200.0,True,False,True,,24.28,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 15:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:30:00,desktop,200.0,True,False,False,,13.41,Regioprovider2,,Gut,7.3,Full Speed 250 ,cable
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,28.95,Provider_yellow,,Gut,7.7,ExtraZuhause 100 ,fiberglass
+2025-03-09 10:00:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.1,ExtraZuhause 500 Kabel ,cable
+2025-03-09 22:00:00,desktop,300.0,True,True,True,,47.6,Provider_green,,Sehr gut,8.8,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 14:30:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.4,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 10:00:00,desktop,300.0,True,True,True,,36.61,Provider_green,,Sehr gut,8.6,My Zuhause L mit MyTV SuperStream ,dsl
+2025-03-09 10:00:00,desktop,0.0,True,True,True,,89.02,Provider_green,,Hervorragend,9.0,Glasfaser 1000 mit MyTV SuperplusStream ,fiberglass
+2025-03-09 16:00:00,tabletapp,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 14:00:00,desktop,300.0,True,False,True,,15.83,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,28.19,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 14:00:00,desktop,200.0,True,True,True,,43.02,Provider_green,,Sehr gut,8.9,My Zuhause XL Young mit MyTV Super ,dsl
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 20:00:00,desktop,0.0,True,False,True,,34.53,Provider_green,,Sehr gut,8.4,Glasfaser 150 ,fiberglass
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,36.95,Provider_yellow,,Sehr gut,8.1,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 05:00:00,desktop,200.0,True,False,True,,49.78,Provider_yellow,,Gut,7.9,ExtraZuhause 1.000 ,fiberglass
+2025-03-09 21:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,39.94,Provider_yellow,,Sehr gut,8.3,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 15:00:00,app,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,38.85,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 19:30:00,desktop,200.0,True,False,True,,16.37,Provider_green,,Sehr gut,8.2,My Zuhause M Young ,dsl
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Gut,7.5,My Zuhause S ,dsl
+2025-03-09 19:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 17:30:00,desktop,200.0,True,False,True,,36.95,Provider_yellow,,Sehr gut,8.3,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 14:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,26.11,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 500 Kabel ,cable
+2025-03-09 20:30:00,desktop,100.0,True,False,False,,31.77,Regioprovider3,,Sehr gut,8.1,Internet 500 ,fiberglass
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,21.4,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,36.95,Provider_yellow,,Sehr gut,8.1,ExtraZuhause CableMax 1.000 ,cable
+2025-03-09 21:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 23:30:00,desktop,0.0,True,False,True,,42.48,Provider_blue,,Gut,7.4,Home M (DSL) ,dsl
+2025-03-09 11:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 14:00:00,desktop,200.0,True,False,True,,36.35,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 21:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 23:00:00,desktop,200.0,True,False,True,,33.6,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,14.45,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,18.74,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,36.9,Provider_yellow,,Gut,7.9,ExtraZuhause 250 ,fiberglass
+2025-03-09 18:30:00,desktop,200.0,True,False,True,,24.99,Provider_yellow,,Gut,7.8,ExtraZuhause 250 DSL ,dsl
+2025-03-09 12:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:30:00,desktop,200.0,True,False,True,,26.19,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 23:00:00,desktop,200.0,True,False,True,,33.6,Provider_green,,Sehr gut,8.5,My Zuhause L ,dsl
+2025-03-09 17:00:00,desktop,300.0,True,False,True,,21.11,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 10:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 14:30:00,desktop,200.0,True,False,True,,28.7,Provider_green,,Sehr gut,8.5,My Zuhause XL ,dsl
+2025-03-09 19:30:00,tabletapp,400.0,True,False,True,,14.45,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,20.27,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:00:00,desktop,200.0,True,False,True,,18.74,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 21:30:00,desktop,0.0,True,False,True,,42.07,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 18:00:00,desktop,200.0,True,True,True,,26.11,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 500 Kabel inkl. TV Connect ,cable
+2025-03-09 13:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 10:00:00,desktop,200.0,True,True,True,,34.45,Provider_green,,Gut,7.8,My Zuhause S mit MyTV Super ,dsl
+2025-03-09 11:00:00,desktop,100.0,True,False,False,,31.77,Regioprovider3,,Gut,7.8,Internet 500 ,fiberglass
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 16:30:00,desktop,200.0,True,False,True,,29.52,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 18:30:00,desktop,400.0,True,False,True,,21.27,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 09:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 15:30:00,desktop,0.0,True,False,False,,67.78,Provider_yellow,,Sehr gut,8.2,ExtraLTE Zuhause Unlimited ,lte
+2025-03-09 16:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 20:00:00,desktop,200.0,True,False,True,,18.53,Provider_yellow,,Gut,7.5,ExtraZuhause 50 DSL ,dsl
+2025-03-09 17:00:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 17:00:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 12:30:00,desktop,200.0,True,False,True,,35.53,Provider_green,,Sehr gut,8.6,My Zuhause XL ,dsl
+2025-03-09 11:30:00,desktop,200.0,True,False,True,,20.29,Provider_green,,Sehr gut,8.3,My Zuhause M Young ,dsl
+2025-03-09 19:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 11:30:00,desktop,300.0,True,False,True,,16.95,Provider_yellow,,Sehr gut,8.3,ExtraZuhause 250 Kabel ,cable
+2025-03-09 22:30:00,desktop,200.0,True,False,True,,45.6,Provider_green,,Sehr gut,8.6,My Zuhause XL Hybrid ,dsl
+2025-03-09 16:30:00,desktop,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 10:00:00,desktop,400.0,True,True,True,,30.01,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel inkl. ExtraTV Cable ,cable
+2025-03-09 18:00:00,desktop,400.0,True,False,True,,14.99,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:30:00,desktop,300.0,True,False,True,,19.03,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 21:00:00,desktop,100.0,True,False,False,,30.52,Regioprovider3,,Gut,7.5,Internet 100 ,fiberglass
+2025-03-09 21:00:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,desktop,400.0,True,True,True,,15.28,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 100 Kabel inkl. TV Connect ,cable
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,23.61,Provider_green,,Sehr gut,8.3,My Zuhause M Young ,dsl
+2025-03-09 15:00:00,desktop,200.0,True,False,True,,26.91,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 12:00:00,desktop,400.0,True,False,True,,11.95,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:30:00,desktop,200.0,True,False,True,,20.95,Provider_green,,Sehr gut,8.3,My Zuhause L Young ,dsl
+2025-03-09 23:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 05:00:00,desktop,300.0,True,True,True,,16.12,Provider_yellow,,Sehr gut,8.5,ExtraZuhause 250 Kabel inkl. TV Connect ,cable
+2025-03-09 11:00:00,desktop,0.0,True,False,False,,21.37,Resaleprovider1,,Ausreichend,5.7,Homespot S (50 GB) ,lte
+2025-03-09 13:00:00,desktop,200.0,True,False,True,,23.28,Provider_green,,Sehr gut,8.5,My Zuhause XL Young ,dsl
+2025-03-09 19:30:00,tabletapp,400.0,True,False,True,,14.45,Provider_yellow,,Gut,7.9,ExtraZuhause 100 Kabel ,cable
+2025-03-09 14:00:00,desktop,300.0,True,False,True,,15.83,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 250 Kabel ,cable
+2025-03-09 08:30:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 23:30:00,tablet,200.0,True,False,True,,21.81,Provider_yellow,,Gut,7.8,ExtraZuhause 50 DSL ,dsl
+2025-03-09 19:00:00,desktop,200.0,True,False,True,,23.45,Provider_green,,Sehr gut,8.3,My Zuhause L ,dsl
+2025-03-09 13:30:00,desktop,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 09:00:00,app,100.0,True,False,True,,28.45,Regioprovider4,,Gut,7.4,Regio DSL 250 inkl. Telefon-Flatrate ,dsl
+2025-03-09 23:00:00,desktop,200.0,True,False,False,,13.41,Regioprovider2,,Gut,7.3,Full Speed 250 ,cable
+2025-03-09 23:00:00,desktop,300.0,True,False,True,,26.16,Provider_green,,Sehr gut,8.1,My Zuhause M Regio ,dsl
+2025-03-09 09:00:00,tabletapp,0.0,True,True,True,,59.65,Provider_green,,Sehr gut,8.6,My Zuhause M Hybrid mit MyTV Super ,dsl
+2025-03-09 17:00:00,desktop,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 12:00:00,desktop,200.0,True,False,True,,24.87,Provider_green,,Sehr gut,8.5,My Zuhause L Young ,dsl
+2025-03-09 18:00:00,app,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 03:30:00,app,400.0,True,False,True,,13.2,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 22:00:00,app,300.0,True,True,True,,48.99,Provider_green,,Sehr gut,8.9,My Zuhause XL mit MyTV SuperStream ,dsl
+2025-03-09 15:00:00,app,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,app,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:00:00,app,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 03:30:00,app,400.0,True,False,True,,13.2,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 22:00:00,app,300.0,True,True,True,,48.99,Provider_green,,Sehr gut,8.9,My Zuhause XL mit MyTV SuperStream ,dsl
+2025-03-09 21:00:00,app,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 08:00:00,app,400.0,True,False,True,,-0.43,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:00:00,app,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 08:00:00,app,400.0,True,False,True,,-0.43,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 22:00:00,app,300.0,True,True,True,,48.99,Provider_green,,Sehr gut,8.9,My Zuhause XL mit MyTV SuperStream ,dsl
+2025-03-09 17:00:00,app,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 17:00:00,app,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 22:00:00,app,300.0,True,True,True,,48.99,Provider_green,,Sehr gut,8.9,My Zuhause XL mit MyTV SuperStream ,dsl
+2025-03-09 17:00:00,app,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 17:00:00,app,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 17:00:00,app,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 03:30:00,app,400.0,True,False,True,,13.2,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:00:00,app,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 05:30:00,app,400.0,True,False,True,,11.66,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 09:00:00,app,100.0,True,False,True,,28.45,Regioprovider4,,Gut,7.4,Regio DSL 250 inkl. Telefon-Flatrate ,dsl
+2025-03-09 21:00:00,app,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 08:00:00,app,400.0,True,False,True,,-0.43,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:00:00,app,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 17:00:00,app,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 09:00:00,app,100.0,True,False,True,,28.45,Regioprovider4,,Gut,7.4,Regio DSL 250 inkl. Telefon-Flatrate ,dsl
+2025-03-09 09:00:00,app,100.0,True,False,True,,28.45,Regioprovider4,,Gut,7.4,Regio DSL 250 inkl. Telefon-Flatrate ,dsl
+2025-03-09 08:00:00,app,400.0,True,False,True,,-0.43,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 17:00:00,app,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 22:00:00,app,300.0,True,True,True,,48.99,Provider_green,,Sehr gut,8.9,My Zuhause XL mit MyTV SuperStream ,dsl
+2025-03-09 19:00:00,app,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
+2025-03-09 15:00:00,app,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 09:00:00,app,100.0,True,False,True,,28.45,Regioprovider4,,Gut,7.4,Regio DSL 250 inkl. Telefon-Flatrate ,dsl
+2025-03-09 17:00:00,app,0.0,True,False,True,,49.56,Provider_blue,,Sehr gut,8.2,Home M flex (DSL) ,dsl
+2025-03-09 21:00:00,app,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 03:30:00,app,400.0,True,False,True,,13.2,Provider_yellow,,Sehr gut,8.2,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:00:00,app,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 05:30:00,app,400.0,True,False,True,,11.66,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:00:00,app,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 21:00:00,app,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 21:00:00,app,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 15:00:00,app,200.0,True,False,True,,26.19,Provider_yellow,,Sehr gut,8.0,ExtraZuhause 100 DSL ,dsl
+2025-03-09 22:00:00,app,300.0,True,True,True,,48.99,Provider_green,,Sehr gut,8.9,My Zuhause XL mit MyTV SuperStream ,dsl
+2025-03-09 21:00:00,app,400.0,True,False,True,,15.28,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 08:00:00,app,400.0,True,False,True,,-0.43,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 18:00:00,app,300.0,True,False,True,,19.08,Provider_green,,Sehr gut,8.2,My Zuhause M ,dsl
+2025-03-09 08:00:00,app,400.0,True,False,True,,-0.43,Provider_yellow,,Gut,7.8,ExtraZuhause 100 Kabel ,cable
+2025-03-09 19:00:00,app,200.0,True,False,True,,22.91,Provider_yellow,,Gut,7.7,ExtraZuhause 100 DSL ,dsl
