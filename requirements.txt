@@ -2,3 +2,9 @@ requests
 beautifulsoup4
 pandas
 tqdm
+ipykernel
+matplotlib
+seaborn
+scipy
+statsmodels
+plotly

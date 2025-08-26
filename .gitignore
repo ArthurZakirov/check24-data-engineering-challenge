@@ -6,6 +6,21 @@ __pycache__/
 # C extensions
 *.so
 
+# dbeaver / sqlite
+*.db
+*.sqlite
+drivers/
+sql/.metadata/
+sql/General/.dbeaver/
+sql/General/.settings/
+sql/General/.project
+!*.sql
+
+# data
+*.csv
+*.html
+*.pdf
+
 # Distribution / packaging
 .Python
 build/
